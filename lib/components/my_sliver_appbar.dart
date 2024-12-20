@@ -11,7 +11,7 @@ class MySliverAppbar extends StatelessWidget {
     return SliverAppBar(
       backgroundColor: Theme.of(context).colorScheme.background,
       foregroundColor: Theme.of(context).colorScheme.inversePrimary,
-      title: Text('Sunset Dinner'),
+      title: Text('Grume Dinner'),
       expandedHeight: 340,
       collapsedHeight: 120,
       floating: false,
