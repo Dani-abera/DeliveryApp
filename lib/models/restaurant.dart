@@ -88,7 +88,7 @@ class Restaurant extends ChangeNotifier {
       name: "Apple Pie",
       description:
           "A crispy fried chicken breast dipped in spicy buffalo sauce, topped with blue cheese dressing, lettuce, and pickles, all in a toasted brioche bun.",
-      image: "images/burger/Burger1.png",
+      image: "images/dessert/Apple Pie.png",
       price: 9.99,
       category: FoodCategory.dessert,
       availableAddons: [
@@ -133,7 +133,7 @@ class Restaurant extends ChangeNotifier {
       name: "Dessert Food",
       description:
           "A crispy fried chicken breast dipped in spicy buffalo sauce, topped with blue cheese dressing, lettuce, and pickles, all in a toasted brioche bun.",
-      image: "images/burger/Burger1.png",
+      image: "images/dessert/dessert food.png",
       price: 9.99,
       category: FoodCategory.dessert,
       availableAddons: [
@@ -148,7 +148,7 @@ class Restaurant extends ChangeNotifier {
       name: "Ice Cream",
       description:
           "A crispy fried chicken breast dipped in spicy buffalo sauce, topped with blue cheese dressing, lettuce, and pickles, all in a toasted brioche bun.",
-      image: "images/burger/Burger1.png",
+      image: "images/dessert/Ice Cream.png",
       price: 9.99,
       category: FoodCategory.dessert,
       availableAddons: [
@@ -180,7 +180,7 @@ class Restaurant extends ChangeNotifier {
       name: "Hot Chocolate",
       description:
           "A crispy fried chicken breast dipped in spicy buffalo sauce, topped with blue cheese dressing, lettuce, and pickles, all in a toasted brioche bun.",
-      image: "images/burger/Burger1.png",
+      image: "images/drink/Hot Chocolate.png",
       price: 9.99,
       category: FoodCategory.drink,
       availableAddons: [
@@ -195,7 +195,7 @@ class Restaurant extends ChangeNotifier {
       name: "Iced Tea",
       description:
           "A crispy fried chicken breast dipped in spicy buffalo sauce, topped with blue cheese dressing, lettuce, and pickles, all in a toasted brioche bun.",
-      image: "images/burger/Burger1.png",
+      image: "images/drink/Iced Tea.png",
       price: 9.99,
       category: FoodCategory.drink,
       availableAddons: [
@@ -319,7 +319,7 @@ class Restaurant extends ChangeNotifier {
       name: "Baked Beans",
       description:
           "A crispy fried chicken breast dipped in spicy buffalo sauce, topped with blue cheese dressing, lettuce, and pickles, all in a toasted brioche bun.",
-      image: "images/burger/Burger1.png",
+      image: "images/side/Baked Beans.png",
       price: 9.99,
       category: FoodCategory.sides,
       availableAddons: [
@@ -349,7 +349,7 @@ class Restaurant extends ChangeNotifier {
       name: "Corn on the cob",
       description:
           "A crispy fried chicken breast dipped in spicy buffalo sauce, topped with blue cheese dressing, lettuce, and pickles, all in a toasted brioche bun.",
-      image: "images/burger/Burger1.png",
+      image: "images/side/Corn on the Cob.png",
       price: 9.99,
       category: FoodCategory.sides,
       availableAddons: [
@@ -364,7 +364,7 @@ class Restaurant extends ChangeNotifier {
       name: "French fries",
       description:
           "A crispy fried chicken breast dipped in spicy buffalo sauce, topped with blue cheese dressing, lettuce, and pickles, all in a toasted brioche bun.",
-      image: "images/burger/Burger1.png",
+      image: "images/side/French fries.png",
       price: 9.99,
       category: FoodCategory.sides,
       availableAddons: [
@@ -379,7 +379,7 @@ class Restaurant extends ChangeNotifier {
       name: "Garlic Bread",
       description:
           "A crispy fried chicken breast dipped in spicy buffalo sauce, topped with blue cheese dressing, lettuce, and pickles, all in a toasted brioche bun.",
-      image: "images/burger/Burger1.png",
+      image: "images/side/Garlic Bread.png",
       price: 9.99,
       category: FoodCategory.sides,
       availableAddons: [
